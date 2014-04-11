@@ -5,6 +5,7 @@
 # TODO:
 # - make script better
 # - if repository already exists, update it
+# - setup optionals (oh-my-zsh) w/ choose option
 ################################################################################
 
 git_remote_path="https://github.com/silvez"
